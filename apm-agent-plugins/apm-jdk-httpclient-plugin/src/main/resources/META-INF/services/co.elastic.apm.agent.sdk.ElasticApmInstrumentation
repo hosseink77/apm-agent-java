@@ -1,3 +1,0 @@
-co.elastic.apm.agent.httpclient.HttpClientInstrumentation
-co.elastic.apm.agent.httpclient.HttpClientAsyncInstrumentation
-co.elastic.apm.agent.httpclient.HttpRequestHeadersInstrumentation

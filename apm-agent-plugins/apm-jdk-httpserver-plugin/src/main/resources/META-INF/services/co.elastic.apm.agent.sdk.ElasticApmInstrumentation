@@ -1,2 +1,0 @@
-co.elastic.apm.agent.httpserver.HttpServerInstrumentation
-co.elastic.apm.agent.httpserver.HttpContextInstrumentation

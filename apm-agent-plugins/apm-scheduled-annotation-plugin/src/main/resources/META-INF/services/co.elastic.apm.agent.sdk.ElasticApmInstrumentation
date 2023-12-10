@@ -1,2 +1,0 @@
-co.elastic.apm.agent.scheduled.ScheduledTransactionNameInstrumentation
-co.elastic.apm.agent.scheduled.TimerTaskInstrumentation

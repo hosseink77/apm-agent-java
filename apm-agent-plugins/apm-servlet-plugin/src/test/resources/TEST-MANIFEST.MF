@@ -1,2 +1,0 @@
-Implementation-Title: service$name-from-manifest
-Implementation-Version: 1.42.0
